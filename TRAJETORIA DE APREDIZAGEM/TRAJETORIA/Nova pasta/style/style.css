@@ -1,0 +1,73 @@
+body{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: white;
+    background-image:linear-gradient(to right, #2c2929, #8DA2DA )
+    
+    
+
+}
+#logo{
+    height: 55px; width: 55px;
+}
+
+
+nav{
+    position: absolute;
+    right: 100px;
+
+}
+
+li{
+width: 45px;
+height: 20px;
+display: inline-flex;
+left: 100px;
+padding-left:75px;
+font-size:1.2em;
+
+}
+
+#h1principal{
+width: 600px;height: 30px;
+font-size:30px;
+position: relative;
+top:50px;
+left: 40px;
+
+
+} 
+
+#TextoSobre{
+    width: 459px; height:131px;
+    font-size:1.2em;color: white;
+    position: relative;
+    top: 70px;
+    left: 40px;
+
+}
+
+
+#fotoprincipal{
+    width: 460px; height:471px;
+    position: absolute;
+    top: 150px;
+    right: 60px;
+
+}
+
+ #logoGitHub{
+    width:47px; 
+    height:47px;
+    position: relative ;
+    top: 100px;
+    left: 40px;
+ }
+ #meuGitHub{
+    width: 329; height: 22;
+    font-size:1.2em;
+    position:relative;
+    left:100px;
+    top: 50px;
+ }
+
+ a{
+    color: rgb(171, 177, 182);
+ }
