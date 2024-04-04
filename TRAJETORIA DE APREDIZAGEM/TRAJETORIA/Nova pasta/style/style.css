@@ -1,4 +1,4 @@
-body{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: white;
+body{ font-family:Arial, Helvetica, sans-serif;color: white;
     background-image:linear-gradient(to right, #2c2929, #8DA2DA )
     
     
@@ -69,5 +69,6 @@ left: 40px;
  }
 
  a{
-    color: rgb(171, 177, 182);
+    color:white;
  }
+
