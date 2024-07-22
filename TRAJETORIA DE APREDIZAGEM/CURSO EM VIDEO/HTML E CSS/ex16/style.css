@@ -1,0 +1,27 @@
+
+body{
+    background-image: linear-gradient( to left, blue , white); 
+
+}
+
+
+
+ 
+
+
+
+
+#preto{
+    background-color: black;
+   font-size: 25px;color: white;
+   padding: 100px; border-radius: 30px;
+   display: inline-flex;
+   position: relative;
+
+   
+
+}
+
+
+
+

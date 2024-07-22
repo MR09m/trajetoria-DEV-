@@ -1,0 +1,19 @@
+body{
+    background-image:url(1330483.png) ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+#block{
+    background-color: rgba(75, 121, 170, 0.5);
+    display: block;
+    width:344px; height: 450px;
+    margin: auto;
+    margin-top:50px
+    
+
+
+
+
+}

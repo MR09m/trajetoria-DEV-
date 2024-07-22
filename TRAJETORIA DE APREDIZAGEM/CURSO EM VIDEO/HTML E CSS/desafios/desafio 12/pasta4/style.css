@@ -1,0 +1,27 @@
+body{
+    background-image:linear-gradient(to right, #2c2929, #8DA2DA )
+}
+
+iframe{
+position: relative;
+left: 390px;
+top: 90px;
+    
+}
+
+img{
+    position: absolute;
+    left: 650px;
+    top: 450px;
+
+
+}
+p{ position: absolute;
+    left: 660px;
+    top: 490px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+ 
